@@ -1,5 +1,5 @@
 # ml-theonion
-Final Machine Learning Project | NLP of the Onion
+Final Machine Learning Project | NLP of the Onion. 
 Read about this project at https://medium.com/@murphystude/can-computers-learn-to-be-funny-e184c340d772
 
 # Libraries Used
